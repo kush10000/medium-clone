@@ -1,0 +1,1 @@
+export const BACKEND_URL = "https://backend.kushtsvs29.workers.dev"
